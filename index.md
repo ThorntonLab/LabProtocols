@@ -74,3 +74,7 @@ TBD
 * Python: general comments
 * The importance of idiomatic code
 * Formatting code (don't!)
+
+## Software dependency management
+
+TBD
