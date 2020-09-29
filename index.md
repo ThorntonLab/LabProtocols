@@ -41,7 +41,9 @@ These reports will for the basis of how you share data with the lab, generate sl
 (These tools are also pretty useful for teaching.
 For example, I use note-taking software to track errors in the textbooks we use.)
 
+* [Requirements](notebookrequirements)
 * [Tools for taking notes](notetaking)
+* [Tools for generating reports](generatingreports)
 
 ## Manuscript preparation
 
