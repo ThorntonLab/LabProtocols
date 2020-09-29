@@ -45,6 +45,10 @@ For example, I use note-taking software to track errors in the textbooks we use.
 * [Tools for taking notes](notetaking)
 * [Tools for generating reports](generatingreports)
 
+## Content generation using `R Markdown`
+
+TBD
+
 ## Manuscript preparation
 
 TBD -- "preparing graphics" should go under here.
