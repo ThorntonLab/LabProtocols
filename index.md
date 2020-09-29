@@ -55,7 +55,7 @@ TBD
 
 ## Text editors for coding
 
-TBD
+* [Choosing a text editor](editorchoice)
 
 ## Git and GitHub best practices
 
