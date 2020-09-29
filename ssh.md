@@ -17,7 +17,7 @@ You will need to enter your password.
 If your your remote work will require interaction with graphical tools, then you need to enable `X11` forwarding:
 
 ```sh
-ssh username@machine
+ssh -Y username@machine
 ```
 
 See the `man` page for `ssh` for more details about `X11` forwarding.
