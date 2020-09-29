@@ -1,5 +1,9 @@
 # Thornton lab protocols
 
+This page discusses a combination of guidelines/expectations for lab members as well as specific protocols or "recipes" for carrying out your work.
+
+The contents are a work in progress!
+
 ## Working remotely
 
 We often need to do our work on servers that are in a different location from us.
@@ -12,4 +16,32 @@ For example, the campus cluster is in a different building from the lab.
 * [Copying files to/from remote servers](remotecopy)
 * [VPN access to campus](vpn)
 
-[Lab notebooks](labnotebooks)
+## Note-taking, lab notebooks, and "reports"
+
+TBD
+
+## Manuscript preparation
+
+TBD -- "preparing graphics" should go under here.
+
+## Backing up data
+
+TBD
+
+## Text editors for coding
+
+TBD
+
+## Git and GitHub best practices
+
+TBD
+
+## General programming guidelines
+
+TBD
+
+* Choosing a programming language
+* R: general comments
+* Python: general comments
+* The importance of idiomatic code
+* Formatting code (don't!)
