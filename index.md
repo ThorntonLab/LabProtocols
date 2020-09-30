@@ -55,7 +55,8 @@ TBD -- "preparing graphics" should go under here.
 
 ## Backing up data
 
-TBD
+* [Requirements](backuprequirements)
+* [Google drive](googledrive)
 
 ## Text editors for coding
 
