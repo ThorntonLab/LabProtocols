@@ -1,1 +1,26 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+title: Thornton Lab policies and protocols
+description: Lab manual for the Thornton lab at UC Irvine
+navigation:
+  - title: Home
+    url: index
+  - title: Working remotely
+    url: workingremotely
+  - title: Note taking, lab notebooks, etc..
+    url: notetakingoverview
+  - title: Content generation with R Markdown
+    url: rmarkdown
+  - title: Manuscript preparation
+    url: manuscriptprep
+  - title: Backing up data
+    url: backingup
+  - title: Text editors for coding
+    url: editors
+  - title: Git and GitHub best practices
+    url: gitgithubbestpractices
+  - title: Programming guidelines
+    url: programmingguidelines
+  - title: Software dependency management
+    url: dependencymanagement
+  - title: Thornton lab main page
+    url: https://www.molpopgen.org
