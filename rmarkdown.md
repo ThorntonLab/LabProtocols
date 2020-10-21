@@ -13,3 +13,7 @@ To use a template repository, go to its `GitHub` page, click `Use this repositor
 
 * [PDF slides using beamer and LaTeX](https://github.com/ThorntonLab/RMarkdown_beamer_slides_template)
 * [HTML slides using remarkjs](https://github.com/ThorntonLab/RMarkdown_remark_slides_template)
+
+### Manuscript templates
+
+* [Manuscript template](https://github.com/ThorntonLab/RMarkdown_manuscript_template)
