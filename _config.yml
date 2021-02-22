@@ -22,5 +22,7 @@ navigation:
     url: programmingguidelines
   - title: Software dependency management
     url: dependencymanagement
+  - title: Lab computers
+    url: labcomputers
   - title: Thornton lab main page
     url: https://www.molpopgen.org
