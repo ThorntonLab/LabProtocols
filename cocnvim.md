@@ -8,6 +8,12 @@ It works via a language server model similar to Microsoft's VScode.
 
 ## Installing the plugin
 
+First, install `node` and `npm`:
+
+```sh
+sudo apt install nodejs npm
+```
+
 In your `init.vim` (or `.vimrc`) using [vim-plug](https://github.com/junegunn/vim-plug): 
 
 ```
