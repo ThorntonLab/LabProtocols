@@ -21,6 +21,18 @@ sudo apt install network-manager-openconnect-gnome
 
 Once installed, you can configure it via the `Settings` graphical interface.
 
+To accommodate the UCI requirement for two-factor authentication:
+
+```sh
+locate csd-wrapper.sh
+```
+
+Take that path, and add it to the GUI configuration.
+An example may look like this:
+
+![Example VPN configuration](images/vpnconfig.png)
+
+
 Even with this, all is not 100% rosy!
 KT's experience on PopOS! is:
 
