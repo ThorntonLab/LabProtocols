@@ -49,4 +49,11 @@ The information printed to screen should tell you that the GPU have been found a
 
 ### AMD GPU setup
 
-`TBD`--waiting for 6700xt to become available!
+Follow instructions [here](https://amdgpu-install.readthedocs.io/en/latest/index.html).
+
+The command that worked is:
+
+```sh
+amdgpu-install --usecase=opencl --no-dkms
+```
+
